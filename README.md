@@ -8,7 +8,8 @@ kort **intro** sdfsdf
 - [Om projektet](#om-projektet)
 - [Funktioner](#funktioner)
 - [Teknologier](#teknologier)
-- [iNSTALLATION](#installation)
+- [Installation](#installation)
+- [Användning](#användning)
 
 ---
 ## Om projektet
@@ -47,3 +48,9 @@ npm install
 # Starta utvecklingsserver
 npm run dev
 ```
+
+---
+
+## Användning
+
+
