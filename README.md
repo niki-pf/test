@@ -27,7 +27,7 @@ Detta projekt är en **e-handelsplattform** byggd med **Next.js 15** och **TypeS
 
 Vi använder **Supabase** med **Prisma** som backend för att hantera produktdata, istället för externa API:er.  
 
-Projektet har också varit en övning i **agilt grupparbete**, inklusive versionskontroll med Git/GitHub, projekthantering med Trello eller GitHub Projects, samt fokus på **tillgänglighet** genom tester med WAVE.  
+Projektet har också varit en övning i **agilt grupparbete**, inklusive versionskontroll med Git/GitHub, projekthantering med GitHub Projects, samt fokus på **tillgänglighet** genom tester med WAVE.  
 
 Plattformen använder moderna Next.js-funktioner som **Server Components**, **Client Components**, **statiska och dynamiska routes** samt **asynkron datahantering**, vilket ger praktisk erfarenhet av verkliga webbutvecklingsprojekt.
 
