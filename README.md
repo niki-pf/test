@@ -1,4 +1,4 @@
 # 🛍E-Handelsplattform i Next.js
 
-kort **intro sdfsdf 
+kort **intro** sdfsdf 
 
